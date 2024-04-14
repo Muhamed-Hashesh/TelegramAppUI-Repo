@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+Clone Telegram Ui as 
+  - contacts screen 👨‍👦‍👦
+  - chats Screen 💬
+      |
+       - Messages Screen 🗿✍🏼
+  - Settings Screen 🛞
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
